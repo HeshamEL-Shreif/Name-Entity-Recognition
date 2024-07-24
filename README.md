@@ -87,9 +87,6 @@ The project demonstrates the effectiveness of different NER models, with BERT sh
 - Investigate methods to improve LSTM performance and handle memory constraints.
 - Extend to other NLP tasks and datasets.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -98,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please contact [heshamelsherif685@gmail.com](mailto:heshamelsherif685@gmail.com).
 
 ---
 
