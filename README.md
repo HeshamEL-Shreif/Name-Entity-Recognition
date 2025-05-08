@@ -84,15 +84,3 @@ The project demonstrates the effectiveness of different NER models, with BERT sh
 - Extend to other NLP tasks and datasets.
 
 
-## Acknowledgments
-
-- [Hugging Face Transformers](https://github.com/huggingface/transformers)
-- [PyTorch](https://pytorch.org/)
-
-## Contact
-
-For questions or feedback, please contact [heshamelsherif685@gmail.com](mailto:heshamelsherif685@gmail.com).
-
----
-
-Feel free to adjust the sections as needed based on any additional details or specific project structure you have!
