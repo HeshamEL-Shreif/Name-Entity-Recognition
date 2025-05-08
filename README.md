@@ -1,3 +1,7 @@
+Here's a README file for your GitHub repository based on the provided documentation:
+
+---
+
 # Named Entity Recognition (NER) Project
 
 This repository contains the implementation of various Named Entity Recognition (NER) models, including Conditional Random Fields (CRF), Long Short-Term Memory (LSTM) networks, and BERT-based models. The goal of this project is to compare traditional and advanced machine learning techniques for NER tasks.
