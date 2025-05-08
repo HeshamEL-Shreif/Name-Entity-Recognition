@@ -65,14 +65,6 @@ The datasets are divided into training, validation, and test sets. For detailed 
 1. Tokenize using the Hugging Face library.
 2. Align labels with tokens, ensuring proper handling of sub-word tokenization.
 
-## Usage
-
-To train and evaluate the models, follow these steps:
-
-1. **Training**: Run the training scripts provided in the `scripts/` directory for each model.
-2. **Evaluation**: Evaluate the models using the provided test scripts.
-3. **Fine-Tuning**: For BERT, adjust hyperparameters and fine-tune using the `fine_tuning.py` script.
-
 ## Conclusion
 
 The project demonstrates the effectiveness of different NER models, with BERT showing significant improvements in precision and recall. Traditional models like CRF offer strong performance for basic tasks, while advanced models like BERT excel in handling complex and emerging entities.
